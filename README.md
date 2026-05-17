@@ -87,7 +87,20 @@ upi-spending-analysis/
 
 ---
 
-## 🙌 Author
+## ✅ Conclusion
 
-**Malini Selvi**
+This project demonstrates how raw UPI transaction data can be transformed into meaningful business insights using SQL and Power BI.
+
+By analyzing spending patterns, category distribution, and daily trends, the dashboard enables better understanding of user behavior and supports data-driven decision making.
+
+---
+
+## 🤝 Connect With Me
+
+I’m always open to feedback, collaboration, and opportunities in data analytics.
+
+* 💼 LinkedIn: www.linkedin.com/in/malini-selvi-murugesan
+
+Feel free to connect and explore more of my projects!
+
 
